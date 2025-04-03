@@ -1,2 +1,2 @@
 # AutomationExercise1
-Automated to test the application form
+Automated sceanrio to test the application form
